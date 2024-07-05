@@ -1,0 +1,102 @@
+{
+    "c2array": true,
+    "size": [
+        4,
+        7,
+        1
+    ],
+    "data": [
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "en"
+            ],
+            [
+                "Toxic Matter"
+            ],
+            [
+                "Emerald Ring"
+            ],
+            [
+                "Fierce Fangs"
+            ],
+            [
+                "Bear Stone"
+            ],
+            [
+                "Amethyst Pendant"
+            ],
+            [
+                "Golden Staff"
+            ]
+        ],
+        [
+            [
+                "ar"
+            ],
+            [
+                "المادة السامة"
+            ],
+            [
+                "الخاتم الزمردي"
+            ],
+            [
+                "الأنياب الشرسة"
+            ],
+            [
+                "حجر الدب"
+            ],
+            [
+                "قلادة الجمشت"
+            ],
+            [
+                "العصا الذهبية"
+            ]
+        ],
+        [
+            [
+                "es"
+            ],
+            [
+                "Materia tóxica"
+            ],
+            [
+                "Anillo Esmeralda"
+            ],
+            [
+                "Colmillos feroces"
+            ],
+            [
+                "Piedra del Oso"
+            ],
+            [
+                "Colgante Amatista"
+            ],
+            [
+                "Bastón dorado"
+            ]
+        ]
+    ]
+}

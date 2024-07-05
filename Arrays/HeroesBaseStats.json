@@ -1,0 +1,192 @@
+{
+    "c2array": true,
+    "size": [
+        13,
+        4,
+        1
+    ],
+    "data": [
+        [
+            [
+                ""
+            ],
+            [
+                "Centipede"
+            ],
+            [
+                "Big Blob"
+            ],
+            [
+                "War Turtle"
+            ]
+        ],
+        [
+            [
+                "Health Base"
+            ],
+            [
+                600
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Health Per Level"
+            ],
+            [
+                10
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Physical Power Base"
+            ],
+            [
+                5
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Physical Power Per Level"
+            ],
+            [
+                5
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Magical Power Base"
+            ],
+            [
+                30
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Magical Power Per Level"
+            ],
+            [
+                20
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Physical Protection Base"
+            ],
+            [
+                10
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Physical Protection Per Level"
+            ],
+            [
+                1
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Magical Protection Base"
+            ],
+            [
+                10
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Magical Protection Per Level"
+            ],
+            [
+                1
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Attack Speed Base"
+            ],
+            [
+                1
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Attack Speed Per Level"
+            ],
+            [
+                0.01
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "c2array": true,
+    "size": [
+        4,
+        3,
+        3
+    ],
+    "data": [
+        [
+            [
+                1,
+                2,
+                1
+            ],
+            [
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "en",
+                "en",
+                "en"
+            ],
+            [
+                "Centipede uses whatever items it wants!",
+                "Batipede gains double the movement speed of Centipede.",
+                "Big Blob's Toxic Blobs are the key to your strategy. Place them strategically to control areas, deal damage, and even revive yourself."
+            ],
+            [
+                "",
+                "You can cancel the animation of Centipede's first ability by using a basic attack to maximize the damage.",
+                ""
+            ]
+        ],
+        [
+            [
+                "ar",
+                "ar",
+                "ar"
+            ],
+            [
+                "حريشة تستخدم أي عناصر تريدها!‏‏",
+                "تحصل خفيشة على ضعف سرعة حركة حريشة.‏",
+                "تعتبر الفقاعات السامة لبلوب الكبير هي المفتاح لاستراتيجيتك. ضعها بشكل استراتيجي للسيطرة على المناطق، وإحداث الضرر، وحتى إنعاش نفسك.‏"
+            ],
+            [
+                "",
+                "يمكنك إلغاء التحريك الرسومي الخاص بالقدرة الأولى لحريشة باستخدام الهجوم الأساسي لتعظيم الضرر.‏",
+                ""
+            ]
+        ],
+        [
+            [
+                "es",
+                "es",
+                "es"
+            ],
+            [
+                "¡Ciempiés usa los artículos que quiere!",
+                "Ciempiélago gana el doble de velocidad de movimiento que Ciempiés.",
+                "Los Blobs Tóxicos de Gran Blob son la clave de tu estrategia. Colócalos estratégicamente para controlar zonas, infligir daño e incluso revivirte."
+            ],
+            [
+                "",
+                "Puedes cancelar la animación de la primera habilidad de Ciempiés utilizando un ataque básico para maximizar el daño.",
+                ""
+            ]
+        ]
+    ]
+}

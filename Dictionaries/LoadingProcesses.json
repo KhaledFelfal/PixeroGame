@@ -1,0 +1,13 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "1": "NewUserCheck",
+        "2": "LanguagePicker",
+        "3": "UserAgreement",
+        "4": "NetworkCheck",
+        "5": "VersionCheck",
+        "6": "AccountSignIn",
+        "7": "Playfab",
+        "8": "FinishingUp"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "c2array": true,
+    "size": [
+        4,
+        7,
+        1
+    ],
+    "data": [
+        [
+            [
+                6
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "en"
+            ],
+            [
+                "Uh oh, looks like someone needs more practice!"
+            ],
+            [
+                "No rewards for a loser!"
+            ],
+            [
+                "Almost had it! Maybe try a different strategy next time."
+            ],
+            [
+                "Better luck next time! Don't worry, everyone loses sometimes."
+            ],
+            [
+                "You'll get 'em next time!"
+            ],
+            [
+                "Congratulations! You've discovered a new way to lose."
+            ]
+        ],
+        [
+            [
+                "ar"
+            ],
+            [
+                "اوه لا، يبدو أن أحدهم يحتاج إلى المزيد من التدريب!‏"
+            ],
+            [
+                "لا مكافآت لخاسر!‏"
+            ],
+            [
+                "كدت أن تنجح! ربما عليك تجربة استراتيجية مختلفة في المرة القادمة.‏"
+            ],
+            [
+                "حظاً أوفر في المرة القادمة! لا تقلق فالجميع يخسر في بعض الأحيان.‏"
+            ],
+            [
+                "ستنال منهم في المرة القادمة!‏"
+            ],
+            [
+                "تهانينا! لقد اكتشفت طريقة جديدة للخسارة.‏"
+            ]
+        ],
+        [
+            [
+                "es"
+            ],
+            [
+                "¡Oh, parece que alguien necesita más práctica!"
+            ],
+            [
+                "¡No hay recompensa para un perdedor!"
+            ],
+            [
+                "¡Casi lo tenía! Tal vez intente una estrategia diferente la próxima vez."
+            ],
+            [
+                "¡Más suerte la próxima vez! No te preocupes, todo el mundo pierde a veces."
+            ],
+            [
+                "¡Los tendrás la próxima vez!"
+            ],
+            [
+                "¡Felicidades! Has descubierto una nueva forma de perder."
+            ]
+        ]
+    ]
+}

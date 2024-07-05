@@ -1,0 +1,918 @@
+{
+    "c2array": true,
+    "size": [
+        4,
+        75,
+        1
+    ],
+    "data": [
+        [
+            [
+                ""
+            ],
+            [
+                "lang_name"
+            ],
+            [
+                "select_lang"
+            ],
+            [
+                "cnfrm_bt"
+            ],
+            [
+                "wlcm_text"
+            ],
+            [
+                "usr_agr"
+            ],
+            [
+                "tos"
+            ],
+            [
+                "policy"
+            ],
+            [
+                "load_text1"
+            ],
+            [
+                "load_text2"
+            ],
+            [
+                "no_intr_title"
+            ],
+            [
+                "no_intr"
+            ],
+            [
+                "updt_vrs_title"
+            ],
+            [
+                "old_vrs_title"
+            ],
+            [
+                "updt_vrs"
+            ],
+            [
+                "old_vrs"
+            ],
+            [
+                "updt_bt"
+            ],
+            [
+                "load_text3"
+            ],
+            [
+                "load_text4"
+            ],
+            [
+                "load_text5"
+            ],
+            [
+                "playbt"
+            ],
+            [
+                "stagesbt"
+            ],
+            [
+                "rewardsbt"
+            ],
+            [
+                "missionsbt"
+            ],
+            [
+                "collectionbt"
+            ],
+            [
+                "shopbt"
+            ],
+            [
+                "heroespage"
+            ],
+            [
+                "itemspage"
+            ],
+            [
+                "filter1"
+            ],
+            [
+                "filter2"
+            ],
+            [
+                "filter3"
+            ],
+            [
+                "filter4"
+            ],
+            [
+                "maxrank"
+            ],
+            [
+                "fullmax"
+            ],
+            [
+                "filteritem1"
+            ],
+            [
+                "filteritem2"
+            ],
+            [
+                "sort1-1"
+            ],
+            [
+                "sort1-2"
+            ],
+            [
+                "sort2-1"
+            ],
+            [
+                "sort-2-2"
+            ],
+            [
+                "chapter1"
+            ],
+            [
+                "chapter2"
+            ],
+            [
+                "chapter3"
+            ],
+            [
+                "chapter4"
+            ],
+            [
+                "world1"
+            ],
+            [
+                "world2"
+            ],
+            [
+                "soon"
+            ],
+            [
+                "panellevel"
+            ],
+            [
+                "paneltitle1"
+            ],
+            [
+                "paneltext1"
+            ],
+            [
+                "paneltext2"
+            ],
+            [
+                "paneltext3"
+            ],
+            [
+                "paneltext4"
+            ],
+            [
+                "paneltext5"
+            ],
+            [
+                "paneltext6"
+            ],
+            [
+                "paneltitle2"
+            ],
+            [
+                "modifiertitle1"
+            ],
+            [
+                "modifiertext1"
+            ],
+            [
+                "modifiertitle2"
+            ],
+            [
+                "modifiertext2"
+            ],
+            [
+                "modifiertitle3"
+            ],
+            [
+                "modifiertext3"
+            ],
+            [
+                "paneltitle3"
+            ],
+            [
+                "paneltitle4"
+            ],
+            [
+                "panelbt1"
+            ],
+            [
+                "panelbt1"
+            ],
+            [
+                "loadingtxt"
+            ],
+            [
+                "specialtip"
+            ],
+            [
+                "gameover"
+            ],
+            [
+                "gamewin"
+            ],
+            [
+                "victory"
+            ],
+            [
+                "defeat"
+            ],
+            [
+                "damaget"
+            ],
+            [
+                "healt"
+            ],
+            [
+                "mitigatet"
+            ]
+        ],
+        [
+            [
+                "en"
+            ],
+            [
+                "English"
+            ],
+            [
+                "Select Language"
+            ],
+            [
+                "Confirm"
+            ],
+            [
+                "Welcome!"
+            ],
+            [
+                "User Agreement"
+            ],
+            [
+                "I agree to [b][tag=tos][color=#1759d4]Terms and Conditions[/color][/tag][/b]"
+            ],
+            [
+                "I agree to [b][tag=policy][color=#1759d4]Privacy Policy[/color][/tag][/b]"
+            ],
+            [
+                "Checking for internet connection"
+            ],
+            [
+                "Checking game version"
+            ],
+            [
+                "No internet found"
+            ],
+            [
+                "We weren't able to connect to the internet. Please check your internet connection. This window will close automatically when we connect to the internet."
+            ],
+            [
+                "New Update!"
+            ],
+            [
+                "Old Version"
+            ],
+            [
+                "The game has just got updated! Update the game now to enjoy the latest updates."
+            ],
+            [
+                "Your version of the game is too old. Please update the game to the latest version."
+            ],
+            [
+                "Update"
+            ],
+            [
+                "Signing-in to your account"
+            ],
+            [
+                "Connecting to server"
+            ],
+            [
+                "Finishing up"
+            ],
+            [
+                "Play"
+            ],
+            [
+                "Stages"
+            ],
+            [
+                "Rewards"
+            ],
+            [
+                "Missions"
+            ],
+            [
+                "Collection"
+            ],
+            [
+                "Shop"
+            ],
+            [
+                "Heroes"
+            ],
+            [
+                "Items"
+            ],
+            [
+                "Hero Rank"
+            ],
+            [
+                "Hero Level"
+            ],
+            [
+                "Unlock Date"
+            ],
+            [
+                "Release Date"
+            ],
+            [
+                "MAXED"
+            ],
+            [
+                "FULLY MAXED!"
+            ],
+            [
+                "Item Rank"
+            ],
+            [
+                "Item Level"
+            ],
+            [
+                "High to Low"
+            ],
+            [
+                "Low to High"
+            ],
+            [
+                "New to Old"
+            ],
+            [
+                "Old to New"
+            ],
+            [
+                "Chapter 1"
+            ],
+            [
+                "Chapter 2"
+            ],
+            [
+                "Chapter 3"
+            ],
+            [
+                "Chapter 4"
+            ],
+            [
+                "Swamp World"
+            ],
+            [
+                "Snow World"
+            ],
+            [
+                "Coming Soon"
+            ],
+            [
+                "Level"
+            ],
+            [
+                "Event"
+            ],
+            [
+                "Boss Fight"
+            ],
+            [
+                "The boss is ready for a showdown. Face the boss in a fight that will leave you breathless!"
+            ],
+            [
+                "Police Call"
+            ],
+            [
+                "The Police is called! Face the law enforcement in a high-stakes showdown."
+            ],
+            [
+                "Pirate Invasion"
+            ],
+            [
+                "Arrr! A pirate invasion is coming to your shores! Defend yourself from the ruthless raiders."
+            ],
+            [
+                "Modifiers"
+            ],
+            [
+                "Hardness"
+            ],
+            [
+                "Enemies have double protections"
+            ],
+            [
+                "Shield"
+            ],
+            [
+                "Enemies have a 50% max health shield"
+            ],
+            [
+                "Delay"
+            ],
+            [
+                "Your abilities have 50% increased cooldown"
+            ],
+            [
+                "First Win"
+            ],
+            [
+                "Rewards"
+            ],
+            [
+                "Start"
+            ],
+            [
+                "Skip"
+            ],
+            [
+                "Loading"
+            ],
+            [
+                "This message has 0.1% chance to appear. If you can read this, you're lucky!"
+            ],
+            [
+                "[lineThickness=4][outlineback=#212121]YOU LOST[/outlineback][/lineThickness]"
+            ],
+            [
+                "[lineThickness=4][outlineback=#212121]YOU WON![/outlineback][/lineThickness]"
+            ],
+            [
+                "Victory"
+            ],
+            [
+                "Defeat"
+            ],
+            [
+                "Damage Dealt"
+            ],
+            [
+                "Damage Healed"
+            ],
+            [
+                "Damage Taken"
+            ]
+        ],
+        [
+            [
+                "ar"
+            ],
+            [
+                "العربية"
+            ],
+            [
+                "اختر اللغة"
+            ],
+            [
+                "تأكيد"
+            ],
+            [
+                "أهلاً بك!‏"
+            ],
+            [
+                "اتفاقية المستخدم"
+            ],
+            [
+                "[b][tag=tos][color=#1759d4]الشروط والأحكام[/color][/tag][/b] أوافق على"
+            ],
+            [
+                "[b][tag=policy][color=#1759d4]سياسة الخصوصية[/color][/tag][/b] أوافق على"
+            ],
+            [
+                "جارٍ التحقق من الاتصال بالإنترنت"
+            ],
+            [
+                "جارٍ التحقق من إصدار اللعبة"
+            ],
+            [
+                "لا يوجد إنترنت"
+            ],
+            [
+                "لم نتمكن من الاتصال بالإنترنت،‏‏ يرجى التحقق من اتصالك بالإنترنت.‏ ستغلق هذه النافذة تلقائيًا عندما نتصل بالإنترنت.‏"
+            ],
+            [
+                "تحديث جديد!‏"
+            ],
+            [
+                "إصدار قديم"
+            ],
+            [
+                "تم تحديث اللعبة للتو!‏ قم بتحديث اللعبة الآن للاستمتاع بآخر التحديثات.‏"
+            ],
+            [
+                "إصدارك من اللعبة قديم جدًا.‏ يرجى تحديث اللعبة إلى أحدث إصدار.‏"
+            ],
+            [
+                "تحديث"
+            ],
+            [
+                "جارٍ تسجيل الدخول لحسابك"
+            ],
+            [
+                "جارٍ الاتصال بالخادم"
+            ],
+            [
+                "جارٍ التشطيب"
+            ],
+            [
+                "العب"
+            ],
+            [
+                "المراحل"
+            ],
+            [
+                "المكافآت"
+            ],
+            [
+                "المهمات"
+            ],
+            [
+                "المجموعة"
+            ],
+            [
+                "المتجر"
+            ],
+            [
+                "الأبطال"
+            ],
+            [
+                "العناصر"
+            ],
+            [
+                "رتبة البطل"
+            ],
+            [
+                "مستوى البطل"
+            ],
+            [
+                "تاريخ الفتح"
+            ],
+            [
+                "تاريخ النزول"
+            ],
+            [
+                "مكتمل"
+            ],
+            [
+                "مكتمل بالكامل!‏"
+            ],
+            [
+                "رتبة العنصر"
+            ],
+            [
+                "مستوى العنصر"
+            ],
+            [
+                "من الأعلى إلى الأقل"
+            ],
+            [
+                "من الأقل إلى الأعلى"
+            ],
+            [
+                "من الأجدد إلى الأقدم"
+            ],
+            [
+                "من الأقدم إلى الأجدد"
+            ],
+            [
+                "الفصل 1‏"
+            ],
+            [
+                "الفصل 2‏"
+            ],
+            [
+                "الفصل 3‏"
+            ],
+            [
+                "الفصل 4‏"
+            ],
+            [
+                "عالم المستنقع"
+            ],
+            [
+                "عالم الثلج"
+            ],
+            [
+                "قريباً"
+            ],
+            [
+                "المستوى"
+            ],
+            [
+                "الحدث"
+            ],
+            [
+                "قتال زعيم"
+            ],
+            [
+                "الزعيم جاهز للمواجهة، واجه الزعيم في معركة تحبس الأنفاس!‏‏"
+            ],
+            [
+                "نداء الشرطة"
+            ],
+            [
+                "تم استدعاء الشرطة! واجه قوات إنفاذ القانون في مواجهة عالية المخاطر.‏"
+            ],
+            [
+                "غزو القراصنة"
+            ],
+            [
+                "أررر! غزو القراصنة قادم إلى شواطئك! دافع عن نفسك من غزاة لا يرحمون.‏"
+            ],
+            [
+                "مؤثرات"
+            ],
+            [
+                "صلابة"
+            ],
+            [
+                "الأعداء لديهم حمايات مضاعفة"
+            ],
+            [
+                "درع"
+            ],
+            [
+                "الأعداء لديهم درع يساوي 50% من صحتهم القصوى"
+            ],
+            [
+                "تأخير"
+            ],
+            [
+                "فترة التهدئة لقدراتك تزداد بنسبة 50%"
+            ],
+            [
+                "أول فوز"
+            ],
+            [
+                "المكافآت"
+            ],
+            [
+                "ابدأ"
+            ],
+            [
+                "تخطي"
+            ],
+            [
+                "جارٍ التحميل"
+            ],
+            [
+                "فرصة ظهور هذه الرسالة هي 0.1%. إذا كنت تستطيع قراءة هذا الكلام، فأنت محظوظ!‏"
+            ],
+            [
+                "[lineThickness=4][outlineback=#212121]لقد خسرت[/outlineback][/lineThickness]"
+            ],
+            [
+                "[lineThickness=4][outlineback=#212121]لقد فزت!‏[/outlineback][/lineThickness]"
+            ],
+            [
+                "انتصار"
+            ],
+            [
+                "هزيمة"
+            ],
+            [
+                "الضرر الملحق"
+            ],
+            [
+                "الضرر المُعالَج"
+            ],
+            [
+                "الضرر المتلقى"
+            ]
+        ],
+        [
+            [
+                "es"
+            ],
+            [
+                "español"
+            ],
+            [
+                "Seleccione el idioma"
+            ],
+            [
+                "Confirmar"
+            ],
+            [
+                "¡Bienvenido!"
+            ],
+            [
+                "Acuerdo del Usuario"
+            ],
+            [
+                "Acepto los [b][tag=tos][color=#1759d4]Términos y condiciones[/color][/tag][/b]"
+            ],
+            [
+                "Acepto la [b][tag=policy][color=#1759d4]Política de privacidad[/color][/tag][/b]"
+            ],
+            [
+                "Comprobación de la conexión a Internet"
+            ],
+            [
+                "Comprobando la versión del juego"
+            ],
+            [
+                "No se ha encontrado Internet"
+            ],
+            [
+                "No hemos podido conectarnos a Internet. Por favor, compruebe su conexión a Internet. Esta ventana se cerrará automáticamente cuando nos conectemos a Internet."
+            ],
+            [
+                "¡Nueva actualización!"
+            ],
+            [
+                "Versión antigua"
+            ],
+            [
+                "¡El juego acaba de actualizarse! Actualiza el juego ahora para disfrutar de las últimas novedades."
+            ],
+            [
+                "Tu versión del juego es demasiado antigua. Por favor, actualiza el juego a la última versión."
+            ],
+            [
+                "Actualizar"
+            ],
+            [
+                "Iniciando sesión en tu cuenta"
+            ],
+            [
+                "Conectando al servidor"
+            ],
+            [
+                "Terminando"
+            ],
+            [
+                "Jugar"
+            ],
+            [
+                "Etapas"
+            ],
+            [
+                "Premios"
+            ],
+            [
+                "Misiones"
+            ],
+            [
+                "Colección"
+            ],
+            [
+                "Tienda"
+            ],
+            [
+                "Héroes"
+            ],
+            [
+                "Artículos"
+            ],
+            [
+                "Rango de héroe"
+            ],
+            [
+                "Nivel de héroe"
+            ],
+            [
+                "Fecha de desbloqueo"
+            ],
+            [
+                "Fecha de lanzamiento"
+            ],
+            [
+                "MÁXIMO"
+            ],
+            [
+                "¡TOTALMENTE MÁXIMO!"
+            ],
+            [
+                "Rango de artículo"
+            ],
+            [
+                "Nivel de artículo"
+            ],
+            [
+                "Alto a bajo"
+            ],
+            [
+                "Bajo a alto"
+            ],
+            [
+                "Nuevo a viejo"
+            ],
+            [
+                "Viejo a nuevo"
+            ],
+            [
+                "Capítulo 1"
+            ],
+            [
+                "Capítulo 2"
+            ],
+            [
+                "Capítulo 3"
+            ],
+            [
+                "Capítulo 4"
+            ],
+            [
+                "Mundo pantanoso"
+            ],
+            [
+                "Mundo de nieve"
+            ],
+            [
+                "Muy pronto"
+            ],
+            [
+                "Nivel"
+            ],
+            [
+                "Evento"
+            ],
+            [
+                "Lucha del jefe"
+            ],
+            [
+                "El jefe está listo para luchar. ¡Enfréntate al jefe en un combate que te dejará sin aliento!"
+            ],
+            [
+                "Llamada policial"
+            ],
+            [
+                "¡Se llama a la Policía! Enfréntate a las fuerzas del orden en una lucha de alto riesgo."
+            ],
+            [
+                "Invasión pirata"
+            ],
+            [
+                "¡Arrr! ¡Una invasión pirata se acerca a tus costas! Defiéndete de agresores despiadados."
+            ],
+            [
+                "Modificadores"
+            ],
+            [
+                "Dureza"
+            ],
+            [
+                "Los enemigos tienen doble protección"
+            ],
+            [
+                "Escudo"
+            ],
+            [
+                "Los enemigos tienen un escudo de salud máxima del 50%"
+            ],
+            [
+                "Demora"
+            ],
+            [
+                "Tus habilidades tienen un 50% más de enfriamiento"
+            ],
+            [
+                "Primera victoria"
+            ],
+            [
+                "Premios"
+            ],
+            [
+                "Inicio"
+            ],
+            [
+                "Saltar"
+            ],
+            [
+                "Cargando"
+            ],
+            [
+                "Este mensaje tiene un 0,1% de posibilidades de aparecer. Si puedes leerlo, ¡eres afortunado!"
+            ],
+            [
+                "[lineThickness=4][outlineback=#212121]PERDISTE[/outlineback][/lineThickness]"
+            ],
+            [
+                "[lineThickness=4][outlineback=#212121]¡GANASTE![/outlineback][/lineThickness]"
+            ],
+            [
+                "Victoria"
+            ],
+            [
+                "Derrota"
+            ],
+            [
+                "Daños infligidos"
+            ],
+            [
+                "Daños curados"
+            ],
+            [
+                "Daños recibidos"
+            ]
+        ]
+    ]
+}
