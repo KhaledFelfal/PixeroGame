@@ -12436,8 +12436,8 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Text.Cnds.OnCreated,
 		C3.Plugins.Sprite.Cnds.IsOverlapping,
 		C3.Plugins.Text.Cnds.HasTagAtPosition,
-		C3.Plugins.CV_MobileNetwork.Cnds.IsOnline,
 		C3.Plugins.NinePatch.Cnds.IsOnScreen,
+		C3.Plugins.CV_MobileNetwork.Cnds.IsOnline,
 		C3.Plugins.AJAX.Acts.Request,
 		C3.Plugins.System.Exps.projectversion,
 		C3.Plugins.System.Acts.ToggleBoolVar,
@@ -15864,12 +15864,6 @@ self.C3_ExpressionFuncs = [
 			const n0 = p._GetNode(0);
 			const v1 = p._GetNode(1).GetVar();
 			return () => n0.ExpObject(v1.GetValue(), 8);
-		},
-		p => {
-			const v0 = p._GetNode(0).GetVar();
-			const n1 = p._GetNode(1);
-			const n2 = p._GetNode(2);
-			return () => ((((v0.GetValue()) < (0) ? 1 : 0)) ? ((n1.ExpInstVar() + 15)) : (n2.ExpInstVar()));
 		},
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
