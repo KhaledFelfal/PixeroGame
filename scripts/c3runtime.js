@@ -12439,7 +12439,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.NinePatch.Cnds.IsOnScreen,
 		C3.Plugins.CV_MobileNetwork.Cnds.IsOnline,
 		C3.Plugins.AJAX.Acts.Request,
-		C3.Plugins.System.Exps.projectversion,
 		C3.Plugins.System.Acts.ToggleBoolVar,
 		C3.Plugins.LocalStorage.Cnds.CompareValue,
 		C3.ScriptsInEvents.MainmenuEs_Event8_Act1,
@@ -15890,17 +15889,6 @@ self.C3_ExpressionFuncs = [
 			const n0 = p._GetNode(0);
 			return () => n0.ExpObject("last version", "game");
 		},
-		() => 12,
-		p => {
-			const v0 = p._GetNode(0).GetVar();
-			const n1 = p._GetNode(1);
-			const n2 = p._GetNode(2);
-			return () => ((((v0.GetValue()) < (0) ? 1 : 0)) ? (((n1.ExpInstVar() - 16) + 15)) : ((n2.ExpInstVar() - 16)));
-		},
-		() => 14,
-		() => 16,
-		() => 13,
-		() => 15,
 		() => "PopUpWhite",
 		() => "AccountSignIn",
 		p => {
@@ -16689,6 +16677,7 @@ self.C3_ExpressionFuncs = [
 			return () => f0(0, 1, 2, 3, 4, 5);
 		},
 		() => "Movement",
+		() => 15,
 		() => "Right",
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
@@ -17702,6 +17691,7 @@ self.C3_ExpressionFuncs = [
 		() => "Level1104",
 		() => 3.5,
 		() => "Level1105",
+		() => 14,
 		() => "Enemies",
 		() => "Fly Border",
 		p => {
