@@ -12651,10 +12651,9 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Text.Cnds.OnCreated,
 		C3.Plugins.Sprite.Cnds.IsOverlapping,
 		C3.Plugins.Text.Cnds.HasTagAtPosition,
-		C3.Plugins.CV_MobileNetwork.Cnds.IsOnline,
 		C3.Plugins.NinePatch.Cnds.IsOnScreen,
+		C3.Plugins.CV_MobileNetwork.Cnds.IsOnline,
 		C3.Plugins.AJAX.Acts.Request,
-		C3.Plugins.System.Exps.projectversion,
 		C3.Plugins.System.Acts.ToggleBoolVar,
 		C3.Plugins.LocalStorage.Cnds.CompareValue,
 		C3.ScriptsInEvents.MainmenuEs_Event8_Act1,
@@ -17209,12 +17208,6 @@ self.C3_ExpressionFuncs = [
 			return () => n0.ExpObject(v1.GetValue(), 8);
 		},
 		p => {
-			const v0 = p._GetNode(0).GetVar();
-			const n1 = p._GetNode(1);
-			const n2 = p._GetNode(2);
-			return () => ((((v0.GetValue()) < (0) ? 1 : 0)) ? ((n1.ExpInstVar() + 15)) : (n2.ExpInstVar()));
-		},
-		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
 			const n1 = p._GetNode(1);
 			const n2 = p._GetNode(2);
@@ -17231,20 +17224,6 @@ self.C3_ExpressionFuncs = [
 		},
 		() => "GameVersion",
 		() => "https://docs.google.com/spreadsheets/d/e/2PACX-1vQaIPSsI411kXbFD8a5qh1dmoLgcSqgvEv-LwiOZY1QwSu65Db4ZiMpZI7V0VEvPIfOCROSrFEEY3p_/pub?gid=0&single=true&output=csv",
-		p => {
-			const n0 = p._GetNode(0);
-			return () => n0.ExpObject("current version", "game");
-		},
-		p => {
-			const n0 = p._GetNode(0);
-			return () => n0.ExpObject("last version", "game");
-		},
-		p => {
-			const v0 = p._GetNode(0).GetVar();
-			const n1 = p._GetNode(1);
-			const n2 = p._GetNode(2);
-			return () => ((((v0.GetValue()) < (0) ? 1 : 0)) ? (((n1.ExpInstVar() - 16) + 15)) : ((n2.ExpInstVar() - 16)));
-		},
 		() => "PopUpWhite",
 		() => "AccountSignIn",
 		p => {
