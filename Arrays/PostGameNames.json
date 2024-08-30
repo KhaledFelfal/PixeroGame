@@ -2,7 +2,7 @@
     "c2array": true,
     "size": [
         4,
-        8,
+        14,
         1
     ],
     "data": [
@@ -30,6 +30,24 @@
             ],
             [
                 "Enemy2"
+            ],
+            [
+                "Enemy3"
+            ],
+            [
+                "Dash"
+            ],
+            [
+                "Aura"
+            ],
+            [
+                "Heal"
+            ],
+            [
+                "Petrification"
+            ],
+            [
+                "BambooWall"
             ]
         ],
         [
@@ -56,6 +74,24 @@
             ],
             [
                 "Toxic Archer"
+            ],
+            [
+                "Tough Turtle"
+            ],
+            [
+                "Dash"
+            ],
+            [
+                "Aura"
+            ],
+            [
+                "Heal"
+            ],
+            [
+                "Petrification"
+            ],
+            [
+                "Bamboo Wall"
             ]
         ],
         [
@@ -82,6 +118,24 @@
             ],
             [
                 "الرامي السام"
+            ],
+            [
+                "السلحفاة الصلبة"
+            ],
+            [
+                "اندفاع"
+            ],
+            [
+                "هالة"
+            ],
+            [
+                "علاج"
+            ],
+            [
+                "تحجر"
+            ],
+            [
+                "جدار الخيزران"
             ]
         ],
         [
@@ -108,6 +162,24 @@
             ],
             [
                 "Arquero tóxico"
+            ],
+            [
+                "Tortuga maciza"
+            ],
+            [
+                "Corre"
+            ],
+            [
+                "Aura"
+            ],
+            [
+                "Cura"
+            ],
+            [
+                "Petrificación"
+            ],
+            [
+                "Muro de bambú"
             ]
         ]
     ]

@@ -227,7 +227,7 @@
                 ""
             ],
             [
-                2,
+                3,
                 "",
                 "",
                 "",
@@ -387,35 +387,35 @@
                 1,
                 "SwampEnemies",
                 1,
-                25
+                8
             ],
             [
                 "NormalEnemiesFrame",
                 1,
                 "SwampEnemies",
                 1,
-                30
-            ],
-            [
-                "NormalEnemiesFrame",
-                2,
-                "SwampEnemies",
-                2,
-                5
-            ],
-            [
-                "NormalEnemiesFrame",
-                2,
-                "SwampEnemies",
-                2,
-                10
-            ],
-            [
-                "NormalEnemiesFrame",
-                2,
-                "SwampEnemies",
-                2,
                 20
+            ],
+            [
+                "NormalEnemiesFrame",
+                2,
+                "SwampEnemies",
+                2,
+                8
+            ],
+            [
+                "NormalEnemiesFrame",
+                2,
+                "SwampEnemies",
+                2,
+                16
+            ],
+            [
+                "NormalEnemiesFrame",
+                3,
+                "SwampEnemies",
+                3,
+                12
             ],
             [
                 "",
@@ -585,21 +585,21 @@
                 1,
                 "SwampEnemies",
                 1,
-                35
+                20
             ],
             [
                 "NormalEnemiesFrame",
                 1,
                 "SwampEnemies",
                 1,
-                40
+                24
             ],
             [
                 "NormalEnemiesFrame",
-                1,
+                2,
                 "SwampEnemies",
-                1,
-                50
+                2,
+                18
             ],
             [
                 "",
@@ -779,11 +779,11 @@
                 ""
             ],
             [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "NormalEnemiesFrame",
+                1,
+                "SwampEnemies",
+                1,
+                30
             ],
             [
                 "",

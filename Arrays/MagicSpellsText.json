@@ -1,0 +1,114 @@
+{
+    "c2array": true,
+    "size": [
+        4,
+        6,
+        2
+    ],
+    "data": [
+        [
+            [
+                "Name",
+                "Description"
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "en",
+                "en"
+            ],
+            [
+                "Dash",
+                "Dash a short distance in the direction you are facing."
+            ],
+            [
+                "Aura",
+                "Deal $ magical damage around you every 0.25 seconds for 5 seconds."
+            ],
+            [
+                "Heal",
+                "Instantly heal for $."
+            ],
+            [
+                "Petrification",
+                "Become immune to all damage for 3 seconds."
+            ],
+            [
+                "Bamboo Wall",
+                "Create a bamboo wall at your position that block enemies movements for 10 seconds."
+            ]
+        ],
+        [
+            [
+                "ar",
+                "ar"
+            ],
+            [
+                "اندفاع",
+                "اندفع مسافة قصيرة في الاتجاه الذي تواجهه.‏"
+            ],
+            [
+                "هالة",
+                "ألحق $ ضرراً سحرياً حولك كل 0.25 ثانية لمدة 5 ثوانٍ.‏"
+            ],
+            [
+                "علاج",
+                "تعالج $ على الفور.‏‏"
+            ],
+            [
+                "تحجر",
+                "اصبح محصناً ضد جميع الأضرار لمدة 3 ثوانٍ.‏"
+            ],
+            [
+                "جدار الخيزران",
+                "أنشئ جداراً من الخيزران في موقعك لمنع تحركات الأعداء لمدة 10 ثوانٍ.‏"
+            ]
+        ],
+        [
+            [
+                "es",
+                "es"
+            ],
+            [
+                "Corre",
+                "Corre una corta distancia en la dirección hacia donde miras."
+            ],
+            [
+                "Aura",
+                "Inflige $ de daño mágico a tu alrededor cada 0.25 segundos durante 5 segundos."
+            ],
+            [
+                "Cura",
+                "Cura al instante por $."
+            ],
+            [
+                "Petrificación",
+                "Se vuelve inmune a todo el daño durante 3 segundos."
+            ],
+            [
+                "Muro de bambú",
+                "Crea un muro de bambú en tu posición que bloquee los movimientos de los enemigos durante 10 segundos."
+            ]
+        ]
+    ]
+}

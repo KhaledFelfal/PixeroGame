@@ -2,7 +2,7 @@
     "c2array": true,
     "size": [
         4,
-        75,
+        88,
         1
     ],
     "data": [
@@ -231,6 +231,45 @@
             ],
             [
                 "mitigatet"
+            ],
+            [
+                "finalwave"
+            ],
+            [
+                "specialwave"
+            ],
+            [
+                "magicspells"
+            ],
+            [
+                "showcalculations"
+            ],
+            [
+                "rank"
+            ],
+            [
+                "stats"
+            ],
+            [
+                "info"
+            ],
+            [
+                "info1"
+            ],
+            [
+                "info2"
+            ],
+            [
+                "info3"
+            ],
+            [
+                "info4"
+            ],
+            [
+                "info5"
+            ],
+            [
+                "info6"
             ]
         ],
         [
@@ -458,6 +497,45 @@
             ],
             [
                 "Damage Taken"
+            ],
+            [
+                "[lineThickness=4][outlineback=#212121]FINAL WAVE[/outlineback][/lineThickness]"
+            ],
+            [
+                "[lineThickness=4][outlineback=#212121]SPECIAL WAVE[/outlineback][/lineThickness]"
+            ],
+            [
+                "Choose a magic spell"
+            ],
+            [
+                "Show calculations"
+            ],
+            [
+                "Rank"
+            ],
+            [
+                "Stats"
+            ],
+            [
+                "Information"
+            ],
+            [
+                "Damage"
+            ],
+            [
+                "Toughness"
+            ],
+            [
+                "Mobility"
+            ],
+            [
+                "Utility"
+            ],
+            [
+                "Crowd Control"
+            ],
+            [
+                "Difficulty"
             ]
         ],
         [
@@ -685,6 +763,45 @@
             ],
             [
                 "الضرر المتلقى"
+            ],
+            [
+                "[lineThickness=4][outlineback=#212121]الموجة الأخيرة[/outlineback][/lineThickness]"
+            ],
+            [
+                "[lineThickness=4][outlineback=#212121]موجة خاصة[/outlineback][/lineThickness]"
+            ],
+            [
+                "اختر تعويذة سحرية"
+            ],
+            [
+                "إظهار الحسابات"
+            ],
+            [
+                "الرتبة"
+            ],
+            [
+                "الإحصائيات"
+            ],
+            [
+                "المعلومات"
+            ],
+            [
+                "الضرر"
+            ],
+            [
+                "الصلابة"
+            ],
+            [
+                "الحركة"
+            ],
+            [
+                "الدعم"
+            ],
+            [
+                "شل الحركة"
+            ],
+            [
+                "الصعوبة"
             ]
         ],
         [
@@ -905,13 +1022,52 @@
                 "Derrota"
             ],
             [
-                "Daños infligidos"
+                "Daño infligido"
             ],
             [
-                "Daños curados"
+                "Daño curado"
             ],
             [
-                "Daños recibidos"
+                "Daño recibido"
+            ],
+            [
+                "[lineThickness=4][outlineback=#212121]ONDA FINAL[/outlineback][/lineThickness]"
+            ],
+            [
+                "[lineThickness=4][outlineback=#212121]ONDA ESPECIAL[/outlineback][/lineThickness]"
+            ],
+            [
+                "Elige un hechizo mágico"
+            ],
+            [
+                "Mostrar cálculos"
+            ],
+            [
+                "Rango"
+            ],
+            [
+                "Estadísticas"
+            ],
+            [
+                "Información"
+            ],
+            [
+                "Daño"
+            ],
+            [
+                "Dureza"
+            ],
+            [
+                "Movilidad"
+            ],
+            [
+                "Utilidad"
+            ],
+            [
+                "Inmovilización"
+            ],
+            [
+                "Dificultad"
             ]
         ]
     ]
